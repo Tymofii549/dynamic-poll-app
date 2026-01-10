@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vote in Poll</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="question">Loading...</h1>
+    <div id="options"></div>
+
+    <script src="script.js"></script>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const pollId = urlParams.get('id');
+
+        if (pollId) loadPoll(pollId);
+        else document.body.innerHTML = '<h1>Invalid Poll Link</h1>';
+    </script>
+</body>
+</html>

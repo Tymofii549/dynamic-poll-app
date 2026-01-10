@@ -1,0 +1,210 @@
+{
+  "polls": [
+    {
+      "id": "aC7Yir",
+      "question": "How many chickens do you see",
+      "options": [
+        {
+          "option": "1",
+          "votes": 0
+        },
+        {
+          "option": "2",
+          "votes": 0
+        },
+        {
+          "option": "3",
+          "votes": 0
+        },
+        {
+          "option": "4",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "VR_pZ-",
+      "question": "How many chickens?",
+      "options": [
+        {
+          "option": "1",
+          "votes": 0
+        },
+        {
+          "option": "2",
+          "votes": 0
+        },
+        {
+          "option": "3",
+          "votes": 0
+        },
+        {
+          "option": "4",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "nFZVt6",
+      "question": "3123124",
+      "options": [
+        {
+          "option": "1",
+          "votes": 0
+        },
+        {
+          "option": "2",
+          "votes": 0
+        },
+        {
+          "option": "3",
+          "votes": 0
+        },
+        {
+          "option": "4",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "DTDBfu",
+      "question": "Chicken?",
+      "options": [
+        {
+          "option": "1",
+          "votes": 3
+        },
+        {
+          "option": "2",
+          "votes": 4
+        },
+        {
+          "option": "3",
+          "votes": 3
+        },
+        {
+          "option": "4",
+          "votes": 4
+        }
+      ]
+    },
+    {
+      "id": "v53sWw",
+      "question": "Chickens?",
+      "options": [
+        {
+          "option": "1",
+          "votes": 0
+        },
+        {
+          "option": "2",
+          "votes": 0
+        },
+        {
+          "option": "3",
+          "votes": 0
+        },
+        {
+          "option": "4",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "kPfsl3",
+      "question": "Chikcen",
+      "options": [
+        {
+          "option": "1",
+          "votes": 6
+        },
+        {
+          "option": "2",
+          "votes": 8
+        },
+        {
+          "option": "3",
+          "votes": 6
+        },
+        {
+          "option": "4",
+          "votes": 8
+        }
+      ]
+    },
+    {
+      "id": "_So00N",
+      "question": "Chicken",
+      "options": [
+        {
+          "option": "1",
+          "votes": 1
+        },
+        {
+          "option": "2",
+          "votes": 0
+        },
+        {
+          "option": "3",
+          "votes": 0
+        },
+        {
+          "option": "4",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "AVbBQs",
+      "question": "Chikcen",
+      "options": [
+        {
+          "option": "1",
+          "votes": 1
+        },
+        {
+          "option": "2",
+          "votes": 0
+        },
+        {
+          "option": "3",
+          "votes": 0
+        },
+        {
+          "option": "4",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "2NtNOq",
+      "question": "I dont know",
+      "options": [
+        {
+          "option": "what",
+          "votes": 0
+        },
+        {
+          "option": "why",
+          "votes": 0
+        },
+        {
+          "option": "where",
+          "votes": 0
+        },
+        {
+          "option": "which",
+          "votes": 0
+        },
+        {
+          "option": "whereas",
+          "votes": 0
+        },
+        {
+          "option": "whatever",
+          "votes": 1
+        }
+      ]
+    }
+  ]
+}
