@@ -1,8 +1,8 @@
 {
   "polls": [
     {
-      "id": "aC7Yir",
-      "question": "How many chickens do you see",
+      "id": "SwA-VN",
+      "question": "Something",
       "options": [
         {
           "option": "1",
@@ -18,13 +18,15 @@
         },
         {
           "option": "4",
-          "votes": 0
+          "votes": 1
         }
-      ]
+      ],
+      "createdAt": 1768318704360,
+      "duration": 1
     },
     {
-      "id": "VR_pZ-",
-      "question": "How many chickens?",
+      "id": "4t0men",
+      "question": "something",
       "options": [
         {
           "option": "1",
@@ -32,109 +34,19 @@
         },
         {
           "option": "2",
-          "votes": 0
+          "votes": 1
         },
         {
           "option": "3",
           "votes": 0
-        },
-        {
-          "option": "4",
-          "votes": 0
         }
-      ]
+      ],
+      "createdAt": 1768318969455,
+      "duration": 1
     },
     {
-      "id": "nFZVt6",
-      "question": "3123124",
-      "options": [
-        {
-          "option": "1",
-          "votes": 0
-        },
-        {
-          "option": "2",
-          "votes": 0
-        },
-        {
-          "option": "3",
-          "votes": 0
-        },
-        {
-          "option": "4",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "DTDBfu",
-      "question": "Chicken?",
-      "options": [
-        {
-          "option": "1",
-          "votes": 3
-        },
-        {
-          "option": "2",
-          "votes": 4
-        },
-        {
-          "option": "3",
-          "votes": 3
-        },
-        {
-          "option": "4",
-          "votes": 4
-        }
-      ]
-    },
-    {
-      "id": "v53sWw",
-      "question": "Chickens?",
-      "options": [
-        {
-          "option": "1",
-          "votes": 0
-        },
-        {
-          "option": "2",
-          "votes": 0
-        },
-        {
-          "option": "3",
-          "votes": 0
-        },
-        {
-          "option": "4",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "kPfsl3",
-      "question": "Chikcen",
-      "options": [
-        {
-          "option": "1",
-          "votes": 6
-        },
-        {
-          "option": "2",
-          "votes": 8
-        },
-        {
-          "option": "3",
-          "votes": 6
-        },
-        {
-          "option": "4",
-          "votes": 8
-        }
-      ]
-    },
-    {
-      "id": "_So00N",
-      "question": "Chicken",
+      "id": "ttELON",
+      "question": "123",
       "options": [
         {
           "option": "1",
@@ -143,68 +55,266 @@
         {
           "option": "2",
           "votes": 0
-        },
-        {
-          "option": "3",
-          "votes": 0
-        },
-        {
-          "option": "4",
-          "votes": 0
         }
-      ]
+      ],
+      "createdAt": 1768319057708,
+      "duration": 1
     },
     {
-      "id": "AVbBQs",
-      "question": "Chikcen",
+      "id": "NzzU_3",
+      "question": "1",
       "options": [
         {
           "option": "1",
-          "votes": 1
+          "votes": 0
         },
         {
           "option": "2",
+          "votes": 1
+        }
+      ],
+      "createdAt": 1768319160674,
+      "duration": 1
+    },
+    {
+      "id": "fuXluA",
+      "question": "Something",
+      "options": [
+        {
+          "option": "1",
           "votes": 0
+        },
+        {
+          "option": "2",
+          "votes": 1
         },
         {
           "option": "3",
           "votes": 0
-        },
-        {
-          "option": "4",
-          "votes": 0
         }
-      ]
+      ],
+      "createdAt": 1768319353851,
+      "duration": 1
     },
     {
-      "id": "2NtNOq",
-      "question": "I dont know",
+      "id": "ZuicCw",
+      "question": "1",
       "options": [
         {
-          "option": "what",
+          "option": "1",
           "votes": 0
         },
         {
-          "option": "why",
+          "option": "2",
+          "votes": 1
+        },
+        {
+          "option": "3",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768319515151,
+      "duration": 1
+    },
+    {
+      "id": "Jp87Ik",
+      "question": "Something",
+      "options": [
+        {
+          "option": "blue",
           "votes": 0
         },
         {
-          "option": "where",
+          "option": "red",
+          "votes": 1
+        },
+        {
+          "option": "freen",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768319772938,
+      "duration": 1
+    },
+    {
+      "id": "j86DVs",
+      "question": "somethnig",
+      "options": [
+        {
+          "option": "gree",
           "votes": 0
         },
         {
-          "option": "which",
+          "option": "blue",
+          "votes": 1
+        },
+        {
+          "option": "red",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320122431,
+      "duration": 1
+    },
+    {
+      "id": "iYektw",
+      "question": "somehting",
+      "options": [
+        {
+          "option": "red",
           "votes": 0
         },
         {
-          "option": "whereas",
+          "option": "blude",
+          "votes": 1
+        },
+        {
+          "option": "green",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320293936,
+      "duration": 1
+    },
+    {
+      "id": "ZG6pVp",
+      "question": "somehting",
+      "options": [
+        {
+          "option": "red",
           "votes": 0
         },
         {
-          "option": "whatever",
+          "option": "blude",
+          "votes": 0
+        },
+        {
+          "option": "green",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320312639,
+      "duration": 1
+    },
+    {
+      "id": "8G1lF7",
+      "question": "somehting",
+      "options": [
+        {
+          "option": "red",
+          "votes": 0
+        },
+        {
+          "option": "blude",
+          "votes": 0
+        },
+        {
+          "option": "green",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320313209,
+      "duration": 1
+    },
+    {
+      "id": "E4T3lE",
+      "question": "somehting",
+      "options": [
+        {
+          "option": "red",
+          "votes": 0
+        },
+        {
+          "option": "blude",
+          "votes": 0
+        },
+        {
+          "option": "green",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320313589,
+      "duration": 1
+    },
+    {
+      "id": "q6cQKM",
+      "question": "somehting",
+      "options": [
+        {
+          "option": "red",
+          "votes": 0
+        },
+        {
+          "option": "blude",
+          "votes": 0
+        },
+        {
+          "option": "green",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320313774,
+      "duration": 1
+    },
+    {
+      "id": "HD2s9Z",
+      "question": "somehting",
+      "options": [
+        {
+          "option": "red",
+          "votes": 1
+        },
+        {
+          "option": "blude",
+          "votes": 0
+        },
+        {
+          "option": "green",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320313908,
+      "duration": 1
+    },
+    {
+      "id": "kJek39",
+      "question": "sometung",
+      "options": [
+        {
+          "option": "green",
+          "votes": 0
+        },
+        {
+          "option": "red",
+          "votes": 1
+        },
+        {
+          "option": "blue",
+          "votes": 0
+        }
+      ],
+      "createdAt": 1768320368551,
+      "duration": 1
+    },
+    {
+      "id": "e1xBW2",
+      "question": "something",
+      "options": [
+        {
+          "option": "gree",
+          "votes": 0
+        },
+        {
+          "option": "blu",
+          "votes": 0
+        },
+        {
+          "option": "red",
           "votes": 1
         }
-      ]
+      ],
+      "createdAt": 1768320504090,
+      "duration": 1
     }
   ]
 }

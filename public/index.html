@@ -1,22 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Create a Poll</title>
+    <meta charset="UTF-8">
+    <title>Dynamic Poll App</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Create a Poll</h1>
 
-    <label>Question:</label><br>
-    <input type="text" id="question" placeholder="Enter your question"><br><br>
+<h1>Create a Poll</h1>
 
-    <label>Options (comma separated):</label><br>
-    <input type="text" id="options" placeholder="Red,Blue,Green"><br><br>
+<input id="question" placeholder="Poll question">
 
-    <button onclick="createPoll()">Create Poll</button>
+<input id="options" placeholder="Option1, Option2, Option3">
 
-    <p id="link"></p>
+<input id="duration" type="number" placeholder="Duration (minutes)" min="1">
 
-    <script src="script.js"></script>
+<button onclick="createPoll()">Create Poll</button>
+
+<div id="link"></div>
+
+<script src="script.js"></script>
+
 </body>
 </html>
+
